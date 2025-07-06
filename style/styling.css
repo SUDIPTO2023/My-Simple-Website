@@ -4,7 +4,10 @@
     text-align: justify;
     padding: 20px;
     border-radius: 30px;
+    border: 10px solid hotpink;
+    box-shadow: 10px 10px 10px violet;
 }
 div{
     text-align:  center
 }
+ 
